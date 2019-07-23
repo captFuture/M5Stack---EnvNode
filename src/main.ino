@@ -1,6 +1,7 @@
-#include <Arduino.h>
+
 #include <FastLED.h>
 #include <M5Stack.h>
+
 #include "DHT12.h"
 #include <Wire.h>     //The DHT12 uses I2C comunication.
 
